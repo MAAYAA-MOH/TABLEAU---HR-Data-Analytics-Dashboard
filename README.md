@@ -2,6 +2,9 @@
 
 Welcome to the "Tableau - HR Data Analytics Dashboard" project! This project demonstrates how to transform, clean, and visualize HR data using Tableau to create an interactive and insightful dashboard.
 
+![Tableau - HR Data Analytics Dashboard] (https://github.com/MAAYAA-MOH/TABLEAU---HR-Data-Analytics-Dashboard/blob/main/Screenshot%202024-07-03%20092518.png)
+
+
 **Project Overview**
 In this project, there is utilization of Tableau to analyze HR data and build a comprehensive dashboard. The objective is to provide valuable insights into key HR metrics such as employee attrition, active employees, and various other factors influencing HR management. This project showcases the entire process from data preparation to dashboard design, ensuring a clear understanding of HR dynamics.
 
