@@ -80,6 +80,7 @@ The project is organized into the following structure, step by step, with each t
 
 *_Formatting Chart_*
   * Specific chart formatting to highlight important data points and trends.
+    
 
 **Topics Covered / Steps Performed**
 
@@ -107,6 +108,7 @@ The project covers a wide range of Tableau functionalities and best practices fo
  * **Tableau Tips and Tricks**: Practical tips and tricks to enhance Tableau skills and dashboard quality.
 
 
+
    **Tools and Technologies Used**
 
   * *_Tableau_*: Primary tool for data visualization and dashboard creation.
@@ -114,17 +116,23 @@ The project covers a wide range of Tableau functionalities and best practices fo
   * *_Data Visualization_*: Core focus on visualizing HR metrics to derive actionable insights.
   * *_Data Analytics_*: Analytical techniques to explore and interpret HR data.
 
+    
+
 **How to View the Dashboard**
 
    1.Clone the repository: "git clone https://github.com/MAAYAA-MOH/TABLEAU---HR-Data-Analytics-Dashboard.git"
+   
    2.Open the Tableau workbook: Download and open the Tableau file (.twbx) in Tableau Desktop.
+   
    3.Explore the Dashboard: Interact with the dashboard to explore various HR metrics and insights.
 
 **Project Files**
 
-  * *_TABLEAU - HR Data Analytics Dashboard.twbx: The Tableau workbook containing the dashboard and data.
+  * *_TABLEAU - HR Data Analytics Dashboard.twbx_*: The Tableau workbook containing the dashboard and data.
   * *_data/_*: Directory containing the HR dataset used in the project.
   * *_images/_*: Screenshots and visualizations of the dashboard components.
+
+
 
 **Insights and Learnings**
 
@@ -143,6 +151,7 @@ This project demonstrates the power of Tableau in transforming HR data into acti
 **Acknowledgements**
 
 This project was inspired by the need for effective HR analytics to support data-driven decision-making in organizations.
+
 
 **Contribution**
 Contributions to this project are welcome! If you have suggestions for improvements or additional questions, please fork the repository and submit a pull request.
